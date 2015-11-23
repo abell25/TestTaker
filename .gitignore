@@ -1,0 +1,10 @@
+*.pyc
+wikipedia/
+wikipedia_books_index/
+.idea/
+.ipynb_checkpoints/
+CK12_books/
+enwikibooks-20151102-pages-articles.xml
+first_100k.xml
+multipleChoiceQuestions/
+
